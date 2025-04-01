@@ -12,3 +12,5 @@ Provide insights by comparing tip amount among different dimensional variables s
 ### Different Tip by Smoker vs non smoker
 * Most smokers tip up to 4-5 USD, while the rest usually limit themselves to around 2-3 USD.
 * The majority of people in all groups tend to give smaller tips
+
+!["tips by smoker"](/image/tip_by_smoker.png)
